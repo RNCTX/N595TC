@@ -2,9 +2,7 @@
 
 I'm guessing you got here from Trade-A-Plane or Controller. This domain was registered to host various documents related to the aircraft. And yes, if you get the airplane you can have the domain and this website with it.
 
-{% raw %}<span style="border-radius: 4px;">{% endraw %}
 ![Daplane](IMG_1556.jpg)
-{% raw %}</span>{% endraw %}
 
 <h3><a name="logbooks" style="color: #000099; text-decoration: none;">Logbooks</a></h3>
 
