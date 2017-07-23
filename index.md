@@ -6,4 +6,13 @@ I'm guessing you got here from Trade-A-Plane or Controller. This domain was regi
 <h3><a name="logbooks" style="color: #000099; text-decoration: none;">Logbooks</a></h3>
 
 [Airframe](Airframe.pdf)
+
 [Avionics](Avionics.pdf)
+
+[Engine](Engine.pdf)
+
+[Prop](Prop.pdf)
+
+[STCs](STCs.pdf)
+
+[Weight-Balance](WB.pdf)
