@@ -1,3 +1,7 @@
+---
+title: N595TC
+---
+
 ## Welcome to N595TC!
 
 I'm guessing you got here from Trade-A-Plane or Controller. This domain was registered to host various documents related to the aircraft. And yes, if you get the airplane you can have the domain and this website with it.
