@@ -5,7 +5,7 @@ I'm guessing you got here from Trade-A-Plane or Controller. This domain was regi
 
 <h3><a name="logbooks" style="color: #000099; text-decoration: none;">Logbooks</a></h3>
 
-Click on the below links to view. Suggestion: the POH has chapter markers for each section and due to the amount of upgrades this airplane has, the whole book is quite large.  If you download the POH and open it offline in Adobe reader or Preview on a Mac, you'll see chapter markers which make navigating it much easier.
+Click on the below links to view. Suggestion: the POH has chapter markers for each section but those won't show up in a web browser by default. Due to the amount of upgrades this airplane has, the whole book is quite large.  If you download the POH and open it offline in Adobe reader or Preview on a Mac, you'll see chapter markers which make navigating it much easier.
 
 [POH](POH.pdf)
 
