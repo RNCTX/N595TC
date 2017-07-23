@@ -12,6 +12,6 @@ I'm guessing you got here from Trade-A-Plane or Controller. This domain was regi
 
 Click on the below links to view. 
 
-Suggestion: the POH has chapter markers for each section but those won't show up in a web browser by default. Due to the amount of upgrades this airplane has, the whole book is quite large.  If you download the POH and open it offline in Adobe reader or Preview on a Mac, you'll see chapter markers which make navigating it much easier.
+Suggestion: the POH has chapter markers for each section but those may or may not show up in a web browser. Due to the amount of upgrades this airplane has, the whole book is quite large.  If you download the POH and open it offline in Adobe reader or Preview on a Mac, you'll see chapter markers which make navigating it much easier.
 
 [POH](POH.pdf), [Airframe](Airframe.pdf), [Avionics](Avionics.pdf), [Engine](Engine.pdf), [Prop](Prop.pdf), [STCs](STCs.pdf), [Weight-Balance](WB.pdf)
