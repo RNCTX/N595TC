@@ -38,7 +38,7 @@ I'm guessing you got here from Trade-A-Plane or Controller. This domain was regi
 
 Here is the quote for the avionics upgrade.
 
-[Avionics Invoice](AVinvoice.pdf)
+[Avionics Quote](AVinvoice.pdf)
 
 
 <h3><a name="acsystem" style="color: #000099; text-decoration: none;">A/C System</a></h3>
@@ -48,7 +48,7 @@ The A/C system in this aircraft was installed in 2016 by [Air Center, Inc](http:
 
 Here is the quote for the A/C system.
 
-[A/C Invoice](ACinvoice.pdf)
+[A/C Quote](ACinvoice.pdf)
 
 
 <h3><a name="logbooks" style="color: #000099; text-decoration: none;">Logbooks</a></h3>
