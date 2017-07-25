@@ -27,3 +27,9 @@ Suggestion: the POH has chapter markers for each section but those may or may no
 [STCs](STCs.pdf)
 
 [Weight-Balance](WB.pdf)
+
+Additionally, here are the invoices for the avionics and A/C system.
+
+[A/C Invoice](ACinvoice.pdf)
+
+[Avionics Invoice](AVinvoice.pdf)
