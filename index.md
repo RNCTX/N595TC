@@ -10,7 +10,7 @@ I'm guessing you got here from Trade-A-Plane or Controller. This domain was regi
 
 <h3><a name="panel" style="color: #000099; text-decoration: none;">Panel Details</a></h3>
 
-* New custom fabricated aluminum panel with silkscreened placards
+* New custom fabricated panel with silkscreened placards
 * JPI 930 primary engine monitor/gauges
 * Aspen 2500 + obstacles + synthetic vision
 * Garmin ADS-B unlock on the MFD
