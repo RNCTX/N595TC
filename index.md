@@ -26,6 +26,18 @@ I'm guessing you got here from Trade-A-Plane or Controller. This domain was regi
 * powered USB ports in the panel
 * PA32 glovebox on the right side
 
+<h3><a name="acsystem" style="color: #000099; text-decoration: none;">A/C System</a></h3>
+
+The A/C system in this aircraft was installed in 2016 by [Air Center, Inc](http://aircenterinc.com). It's an electric motor driven system, which offers some benefits over engine driven systems.  Firstly, the airplane can be pre-cooled with supplemental electrical power from a start-cart, you can call ahead and have the airplane cooled by the ground service crew before you get there. Secondly, since the system doesn't need to be attached to the engine it is mounted in the tail where heavier remote-mounted avionics *used* to be.  The shift of modern, lightweight avionics forward to the instrument panel tends to cause weight and balance issues on many aircraft. Putting the weight back into the tail in the form of an A/C restores the 'factory' flight characteristcs of the airplane and solves those forward shifting CG issues.
+
+
+Here are the invoices for the avionics and A/C system.
+
+[A/C Invoice](ACinvoice.pdf)
+
+[Avionics Invoice](AVinvoice.pdf)
+
+
 <h3><a name="logbooks" style="color: #000099; text-decoration: none;">Logbooks</a></h3>
 
 Click on the below links to view. 
@@ -46,8 +58,3 @@ Suggestion: the POH has chapter markers for each section but those may or may no
 
 [Weight-Balance](WB.pdf)
 
-Additionally, here are the invoices for the avionics and A/C system.
-
-[A/C Invoice](ACinvoice.pdf)
-
-[Avionics Invoice](AVinvoice.pdf)
