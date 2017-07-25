@@ -8,6 +8,24 @@ I'm guessing you got here from Trade-A-Plane or Controller. This domain was regi
 
 ![Daplane](IMG_1556.jpg)
 
+<h3><a name="panel" style="color: #000099; text-decoration: none;">Panel Details</a></h3>
+
+* New custom fabricated aluminum panel with silkscreened placards
+* JPI 930 primary engine monitor/gauges
+* Aspen 2500 + obstacles + synthetic vision
+* Garmin ADS-B unlock on the MFD
+* Garmin GTX345 transponder
+* Garmin GNS480 GPS
+* Garmin SL30 secondary comm
+* PS Engineering 8000B audio panel
+* STEC55X autopilot factory overhauled in 2017 (with yaw, trim, preselect on Aspen) (1)
+* WX900 stormscope retained (backlight INOP, otherwise functional)
+* original king AI, mechanical airspeed, and STEC turn coordinator retained (2)
+* powered Bose plugs in the panel for front two seats
+* two Bose A20 headsets will come with the airplane
+* powered USB ports in the panel
+* PA32 glovebox on the right side
+
 <h3><a name="logbooks" style="color: #000099; text-decoration: none;">Logbooks</a></h3>
 
 Click on the below links to view. 
