@@ -11,6 +11,13 @@ I'm guessing you got here from Trade-A-Plane or Controller. This domain was regi
 
 ![Dapanel](IMG_1557.jpg)
 
+
+![Daleather](IMG_1570.jpg)
+
+
+![Dabackleather](IMG_1582.jpg)
+
+
 <h3><a name="panel" style="color: #000099; text-decoration: none;">Panel Details</a></h3>
 
 * New custom fabricated panel with silkscreened placards
