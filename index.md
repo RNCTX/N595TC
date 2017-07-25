@@ -12,7 +12,7 @@ I'm guessing you got here from Trade-A-Plane or Controller. This domain was regi
 
 Click on the below links to view. 
 
-Suggestion: the POH has chapter markers for each section but those may or may not show up in a web browser. Due to the amount of upgrades this airplane has, the whole book is quite large.  If you download the POH and open it offline in Adobe reader or Preview on a Mac, you'll see chapter markers which make navigating it much easier.
+Suggestion: the POH has chapter markers for each section but those may or may not show up in a web browser. Due to the amount of upgrades this airplane has, the whole book is quite large.  If you download the POH and open it offline in Adobe reader or Preview on a Mac, you'll see chapter markers which make navigating it much easier.  The 2017 annual has *just* been completed, and will be in these documents shortly.
 
 [POH](POH.pdf)
 
