@@ -19,11 +19,11 @@ I'm guessing you got here from Trade-A-Plane or Controller. This domain was regi
 * Garmin SL30 secondary comm
 * PS Engineering 8000B audio panel
 * STEC55X autopilot factory overhauled in 2017 (with yaw, trim, preselect on Aspen)
-* WX900 stormscope retained (backlight INOP, otherwise functional)
+* WX900 stormscope
 * original king AI, mechanical airspeed, and STEC turn coordinator retained
 * powered Bose plugs in the panel for front two seats
 * two Bose A20 headsets will come with the airplane
-* powered USB ports in the panel
+* USB ports in the panel
 * PA32 glovebox on the right side
 
 <h3><a name="acsystem" style="color: #000099; text-decoration: none;">A/C System</a></h3>
