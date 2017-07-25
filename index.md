@@ -45,7 +45,7 @@ Here is the invoice for the A/C system.
 
 Click on the below links to view. 
 
-Suggestion: the POH has chapter markers for each section but those may or may not show up in a web browser. Due to the amount of upgrades this airplane has, the whole book is quite large.  If you download the POH and open it offline in Adobe reader or Preview on a Mac, you'll see chapter markers which make navigating it much easier.  The 2017 annual and GTX345 installation have *just* been completed, all documentation is current but for the GTX345 337 which has not been processed by the FAA yet.
+Suggestion: the POH has chapter markers for each section but those may or may not show up in a web browser. Due to the amount of upgrades this airplane has, the whole book is quite large.  If you download the POH and open it offline in Adobe reader or Preview on a Mac, you'll see chapter markers which make navigating it much easier.  
 
 [POH](POH.pdf)
 
