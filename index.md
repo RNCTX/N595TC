@@ -71,4 +71,4 @@ Suggestion: the POH has chapter markers for each section but those may or may no
 
 [Weight-Balance](WB.pdf)
 
-If you're interested in this aircraft feel free to contact me via the email link above.  Unfortunately I just don't have time to fly it enough to justify keeping it.  This is the best equipped Commander 114 in the United States, arguably the best equipped airplane for sale for less than $200,000 on the market.  There is nothing else out there with such a low total time and modern equipment for sale at this price point.
+If you're interested in this aircraft feel free to contact me via the email link above.  Unfortunately I just don't have time to fly it enough to justify keeping it.  This is the best equipped Commander 114 in the United States, arguably the best equipped airplane for sale under $200,000, period.  There is nothing else out there with such a low total time and modern equipment for sale at this price point.
