@@ -25,7 +25,7 @@ I'm guessing you got here from Trade-A-Plane or Controller. This domain was regi
 * Aspen 2500 + obstacles + synthetic vision
 * Garmin ADS-B unlock on the MFD
 * Garmin GTX345 transponder
-* Garmin GNS480 GPS
+* Garmin GNS480 WAAS GPS
 * Garmin SL30 secondary comm
 * PS Engineering 8000B audio panel
 * STEC55X autopilot factory overhauled in 2017 (with yaw, trim, preselect on Aspen)
