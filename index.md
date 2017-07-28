@@ -30,7 +30,7 @@ I'm guessing you got here from Trade-A-Plane or Controller. This domain was regi
 * PS Engineering 8000B audio panel
 * STEC55X autopilot factory overhauled in 2017 (with yaw, trim, preselect on Aspen)
 * WX900 stormscope
-* original King AI, mechanical airspeed, and STEC turn coordinator retained
+* Standby King AI (with dual pumps) and mechanical airspeed
 * powered Bose plugs in the panel for front two seats
 * two Bose A20 headsets will come with the airplane
 * USB ports in the panel
